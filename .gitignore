@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -12,3 +13,12 @@ npm-debug.log
 yarn-error.log
 .env
 .phpunit.result.cache
+=======
+# ---> Ada
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
+>>>>>>> cbdeb8ff21489944308b35c59ad44212ef6efbc4
